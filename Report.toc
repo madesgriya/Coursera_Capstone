@@ -1,0 +1,9 @@
+\contentsline {section}{\hbox to\@tempdima {\hfil }Executive Summary}{i}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }Table of Contents}{ii}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }List of Figures}{iii}%
+\contentsline {section}{\numberline {1}Introduction: Business Problem}{1}%
+\contentsline {section}{\numberline {2}Data}{1}%
+\contentsline {section}{\numberline {3}Methodology}{2}%
+\contentsline {section}{\numberline {4}Result}{2}%
+\contentsline {section}{\numberline {5}Discussion}{4}%
+\contentsline {section}{\numberline {6}Conclusion}{4}%
